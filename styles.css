@@ -48,3 +48,9 @@
     color: #000;
     border-radius: 5px;
 }
+
+.hero h1{
+    color: #fff;
+    font-size: 48px;
+    text-align: center;
+}
